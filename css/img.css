@@ -1,0 +1,6 @@
+#sample_img{
+    width: 15rem;
+    height:15rem;
+    border-image-slice: fill;
+    margin-top:-1.5rem;
+}
